@@ -1,4 +1,4 @@
-Terms of Serivce
+Terms of Service
 ================
 
 Last updated: October 2009
