@@ -3,17 +3,17 @@ Terms of Service
 
 Last updated: October 2009
 
-**PLEASE READ THIS DOCUMENT CAREFULLY BEFORE ACCESSING OR USING THE WWW.VIMEO.COM WEBSITE OR RELATED SERVICES. While we've endeavored to make these Terms of Service easier to read and understand by providing the "Vimeo-speak" explanations, please note that it is the "Lawyer-speak" section that comprises the actual, legally-binding Terms of Service. As such, the "Vimeo-speak" section should be seen as a guide or overview only.**
+**PLEASE READ THIS DOCUMENT CAREFULLY BEFORE ACCESSING OR USING THE WWW.VIMEO.COM WEBSITE OR RELATED SERVICES. While we’ve endeavored to make these Terms of Service easier to read and understand by providing the "Vimeo-speak" explanations, please note that it is the "Lawyer-speak" section that comprises the actual, legally-binding Terms of Service. As such, the "Vimeo-speak" section should be seen as a guide or overview only.**
 
 ### Vimeo Speak
 
 ### Lawyer Speak
 
-These are the terms and conditions that apply to all users of Vimeo. Since we can't sit down with all of you to get signatures and such, your use of our website tells us you agree to have these terms and conditions apply.
+These are the terms and conditions that apply to all users of Vimeo. Since we can’t sit down with all of you to get signatures and such, your use of our website tells us you agree to have these terms and conditions apply.
 
-Sometimes we need to update or revise these terms and conditions. You can always tell when that has happened by looking at the "last updated" heading, above. If you keep using the website after the Last Updated date, you're saying you agree to have the updated or revised terms and conditions apply.
+Sometimes we need to update or revise these terms and conditions. You can always tell when that has happened by looking at the "last updated" heading, above. If you keep using the website after the Last Updated date, you’re saying you agree to have the updated or revised terms and conditions apply.
 
-We care about your privacy, too. So much that we've created a separate document outlining our privacy-related policies. [You can read that here](/privacy).
+We care about your privacy, too. So much that we’ve created a separate document outlining our privacy-related policies. [You can read that here](/privacy).
 
 Make sure you understand and agree to these terms before you start using the Vimeo website or services.
 
@@ -26,7 +26,7 @@ In addition to these Terms of Service, your use of the Vimeo Site and/or Service
 Overview
 --------
 
-There's lots to do here, and we're always improving and adding features and functionality. You can upload and share both high- and standard-definition videos; send messages to other members; add other members as contacts; create and moderate "channels" and "groups" based around specific interests, and participate in discussions.
+There’s lots to do here, and we’re always improving and adding features and functionality. You can upload and share both high- and standard-definition videos; send messages to other members; add other members as contacts; create and moderate "channels" and "groups" based around specific interests, and participate in discussions.
 
 Vimeo offers two types of membership: basic (free) and Plus (paid subscription). Some services may only be available to Plus members. [You can read about the different membership options here.](/help/faq#comparison)
 
@@ -49,7 +49,7 @@ Not 18 years old yet? You must have a parent or guardian's permission to use Vim
 
 **If you are a parent or guardian**: Parents and guardians are advised to exercise supervision over their children's on-line activities. If you do not agree to these Terms of Service, do not let your child use the Services. If you have any further questions about our Services please take a look at our [Frequently Asked Questions](/help/faq) or [contact us](/help). If you are the parent or guardian of a child under 15 and believe that he or she is using the Services, please [contact us](/help).
 
-**Parents/Guardians** – it's up to you to keep an eye on your child's use of Vimeo. Vimeo is not responsible for monitoring or filtering its content, some of which may not be appropriate for children under age 18.
+**Parents/Guardians** – it’s up to you to keep an eye on your child's use of Vimeo. Vimeo is not responsible for monitoring or filtering its content, some of which may not be appropriate for children under age 18.
 
 **Notice to parents/guardians:** Portions of the Vimeo Site include user-generated-content, some of which contains "R-rated" material which may comprise nudity, violence or mature subject matter. VIMEO assumes no responsibility for filtering or monitoring the content viewed by its members; accordingly minor members' parents or guardians shall be solely responsible for filtering and/or monitoring their child's use of the Vimeo Site and/or Services.
 
@@ -64,7 +64,7 @@ Subject to the above, the terms and conditions set forth herein, and any applica
 Registration â&#128;&#147; Basic/Plus Membership; Refund Policy
 -----------------------------------------------------
 
-To really enjoy Vimeo, you need to register and become a member. When you register, you get to choose a user name. Be truthful, use your real name. Also, don't choose a name that impersonates somebody else (famous people use our site, too - if you take their name, they'll have to use yours!), that is obscene or objectionable, or that is someone's brand or trademark - we'll reject or change it.
+To really enjoy Vimeo, you need to register and become a member. When you register, you get to choose a user name. Be truthful, use your real name. Also, don’t choose a name that impersonates somebody else (famous people use our site, too - if you take their name, they'll have to use yours!), that is obscene or objectionable, or that is someone's brand or trademark - we'll reject or change it.
 
 In order to use certain Services, you must become a registered user of the Vimeo Site. You agree that Vimeo Site user names may be refused, changed, removed or replaced by us for reasons including, but not limited to, using a user name to impersonate another person, if a user name is offensive or violates third party intellectual property, etc . Please note that your user name may be viewed by the public, so you should not choose a user name that personally identifies you.
 
@@ -100,7 +100,7 @@ When you register for a Vimeo Site account, a profile page will automatically be
 Material Storage and Delivery; Termination of Inactive Accounts
 ---------------------------------------------------------------
 
-We may allocate a certain amount of storage space and bandwidth for different user types. These amounts may be changed by us from time-to-time. If you're a Plus subscriber, we will not reduce your allocations during your current subscription term.
+We may allocate a certain amount of storage space and bandwidth for different user types. These amounts may be changed by us from time-to-time. If you’re a Plus subscriber, we will not reduce your allocations during your current subscription term.
 
 Basic accounts that are inactive for more than 90 days can be removed. Of course, we will send you an email before we take action. We will never remove Plus accounts for inactivity. Being active means simply visiting the site and logging in.
 
@@ -110,7 +110,7 @@ Basic accounts may be terminated and/or deleted from our system if they remain i
 
 Accounts may be archived, or materials may be purged at such time intervals as VIMEO or its third party service provider(s) determine in their sole discretion. Some materials may not be stored, served or processed due to space constraints, serving/bandwidth limitations or disruptions in the system(s). You agree that VIMEO is not responsible or liable for the deletion or failure to store, serve or process any materials or other information.
 
-Vimeo's Privacy Policy
+Vimeo’s Privacy Policy
 ----------------------
 
 Pursuant to VIMEO's Privacy Policy, we may disclose to third parties certain information contained in your Registration Data or related data unless you choose to opt out from such disclosures. Please note: opting out may restrict your ability to utilize certain of the Services. We may also disclose such information if we have a good faith belief that such action is reasonably necessary to comply with the law, legal process, or to enforce these Terms of Service. For more information, please see our full [Privacy Policy](/privacy).
@@ -120,9 +120,9 @@ Channels, Groups, Forums & Comments
 
 Vimeo is used by a lot of great people. Great people like to communicate and share thoughts and comments. Vimeo provides channels, groups, forums and other means for user communication and discussion.
 
-Just like with user names, don't choose a channel or group name that impersonates somebody else, that is obscene or objectionable, or that is someone's brand or trademark - we'll remove or change it.
+Just like with user names, don’t choose a channel or group name that impersonates somebody else, that is obscene or objectionable, or that is someone's brand or trademark - we'll remove or change it.
 
-Don't use channels, groups, comments or forums to plug goods or services.
+Don’t use channels, groups, comments or forums to plug goods or services.
 
 VIMEO offers users the ability to create "channels" or "groups" focused on a particular area of interest, and also offers access to Forums as part of the Services. A "Forum" refers to a bulletin board, virtual community or other means for users to engage in public commentary or discussion, which may be found in various areas of the Vimeo Site, including within channels and groups. You may make "comments" throughout the Vimeo Site, sharing your opinions about others' content or send messages to individual users, as applicable. Channels, groups, comments and Forums are offered for, non-commercial use only. You shall not, without VIMEO's express written approval, distribute or otherwise publish via any of the Services any material containing any solicitation of funds, promotion, advertising, or solicitation for goods or services.
 
@@ -196,7 +196,7 @@ You agree to not use the Vimeo Services (including, without limitation, the Vime
 Waiver; Representations & Warranties
 ------------------------------------
 
-When you upload a video or submit materials or comments to Vimeo, you cannot then sue us for making allowable use of what you've submitted, as specified under these Terms. For examples of allowable uses, see "Video Uploads" and "Non-Video Submissions" above.
+When you upload a video or submit materials or comments to Vimeo, you cannot then sue us for making allowable use of what you’ve submitted, as specified under these Terms. For examples of allowable uses, see "Video Uploads" and "Non-Video Submissions" above.
 
 By uploading or otherwise submitting a video or Submission, you waive the right to make any claim against VIMEO, LLC or any of its respective parents, subsidiaries, affiliates, successors, assigns, employees, agents, directors, officers or shareholders related to the video or Submission, including, but not limited to, unfair competition, intellectual property infringement, invasion of privacy, negligence, breach of implied contract or breach of confidentiality, and you further waive all moral rights, so-called "droits morales" and any right of attribution you may have in any materials uploaded or sent to us by you.
 
@@ -213,13 +213,13 @@ You further represent and warrant that (i) you own or have the necessary license
 Notice: User-Generated-Content Disclaimer; Option to Review/Remove
 ------------------------------------------------------------------
 
-We're not Big Brother, so we don't spend our days browsing through all of the Forums, postings, etc., on Vimeo. That means that you may see postings from users that you find offensive and we can't be held responsible for everything people say. If you see something that violates the [Community Guidelines](/guidelines#uploading_guidelines), please report it.
+We’re not Big Brother, so we don’t spend our days browsing through all of the Forums, postings, etc., on Vimeo. That means that you may see postings from users that you find offensive and we can’t be held responsible for everything people say. If you see something that violates the [Community Guidelines](/guidelines#uploading_guidelines), please report it.
 
 VIMEO does not and cannot review all videos or Submissions posted to or created by users accessing the Services (including, but not limited to, the Vimeo Site), and is not in any manner responsible for the content of these videos, communications, comments or Forum postings, or the activities of Vimeo.com users.
 
 You acknowledge that by providing you with the ability to view and distribute user-generated-content through the Services (including, but not limited to, the Vimeo Site), VIMEO is merely acting as a passive conduit for the distribution of such information, and is not undertaking any obligation or liability relating to the content or the users' activities. Accordingly, VIMEO does not guarantee the accuracy, integrity, completeness, non-infringement or quality of such content. VIMEO and its respective parents, subsidiaries, affiliates, successors, assigns, employees, agents, directors, officers and shareholders do not undertake or assume any duty to monitor the Vimeo Site for inappropriate content. You understand that by using the Vimeo Site or Services, you may be exposed to content that is offensive, indecent or objectionable. Under no circumstances will VIMEO be liable in any way for any content, including, but not limited to, for any errors or omissions in any content, or for any loss or damage of any kind incurred as a result of the use of any content posted, emailed or otherwise transmitted on or via the Vimeo Site or Services. VIMEO and its respective parents, subsidiaries, affiliates, successors, assigns, employees, agents, directors, officers and shareholders assume no responsibility or liability which may arise from the content thereof, including, but not limited to, claims for defamation, libel, slander, infringement, invasion of privacy and publicity rights, obscenity, pornography, profanity, fraud, or misrepresentation.
 
-We may, however, monitor some areas of Vimeo, including channels, groups, forums, and comments of Videos, We can block or remove content that is abusive, defamatory, obscene, fraudulent, misleading, violative of someone else's rights or is otherwise offensive or unacceptable to us, in our discretion. In other words - Vimeo is a quality site. We don't like junk, and if we see it, we'll remove it.
+We may, however, monitor some areas of Vimeo, including channels, groups, forums, and comments of Videos, We can block or remove content that is abusive, defamatory, obscene, fraudulent, misleading, violative of someone else's rights or is otherwise offensive or unacceptable to us, in our discretion. In other words - Vimeo is a quality site. We don’t like junk, and if we see it, we'll remove it.
 
 Notwithstanding the foregoing, VIMEO reserves the right to (i) monitor some, all, or no areas of the channels, groups, comments and Forums for adherence to these or other rules that may be published from time to time; and (ii) block or remove videos, comments, Forum postings, Submissions or materials that it determines to be (a) abusive, defamatory, or obscene, (b) fraudulent, deceptive, or misleading; (c) in violation of a copyright, trademark, patent, trade secret, intellectual property or other rights of another or (d) offensive or otherwise unacceptable to VIMEO, in its sole discretion.
 
@@ -233,7 +233,7 @@ The owners and operators of the Vimeo Site and Services are not the primary prod
 Links/External Sites and Resources
 ----------------------------------
 
-Vimeo or its users may post links to other sites (including through ads). In addition, other sites may make mention of Vimeo or link to vimeo.com. Those sites are operated by other people or companies, so we can't be responsible for the content, goods or services offered on such sites. There are some weird sites out there - proceed with caution.
+Vimeo or its users may post links to other sites (including through ads). In addition, other sites may make mention of Vimeo or link to vimeo.com. Those sites are operated by other people or companies, so we can’t be responsible for the content, goods or services offered on such sites. There are some weird sites out there - proceed with caution.
 
 The Services and certain Submissions may contain, and other users or third parties may provide, advertisements for or links to other World Wide Web sites or resources. These sites and resources are not controlled by VIMEO, and the mere existence of the link on the Vimeo Site does not imply an endorsement or sponsorship by VIMEO. External Web sites and resources are not subject to these Terms and Conditions or the VIMEO Privacy Policy, and may be subject to other terms and conditions or policies posted therein. Because VIMEO has no control over such sites and resources, you acknowledge and agree that VIMEO is not responsible for the availability of such external sites or resources, and does not endorse and is not responsible or liable for any Submission, advertising, products, or other materials on or available from such sites or resources. You further acknowledge and agree that VIMEO shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any Submission, goods or services available on or through any external site or resource. Your use of external sites or resources is at your own risk.
 
@@ -253,7 +253,7 @@ THE SERVICES ARE PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS, AND YOU USE TH
 
 WITHOUT LIMITATION, VIMEO MAKES NO WARRANTY THAT THE SERVICES WILL MEET YOUR REQUIREMENTS, THAT THEY WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE, THAT THE RESULTS OBTAINED FROM THE USE OF THE SERVICES WILL BE ACCURATE OR RELIABLE, OR THAT THE QUALITY OF ANY PRODUCTS, SERVICES, INFORMATION, OR OTHER MATERIAL OBTAINED THROUGH THE SERVICES WILL MEET YOUR EXPECTATIONS.
 
-Use Vimeo at your own risk. We can't be held responsible for any loss of data or harm that comes to your computer from using Vimeo's site or services.
+Use Vimeo at your own risk. We can’t be held responsible for any loss of data or harm that comes to your computer from using Vimeo’s site or services.
 
 ANY MATERIAL DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE USE OF THE SERVICES, INCLUDING EMAILS, SUBMISSIONS, CONTENT OR OTHER MATERIALS OR COMMUNICATIONS SENT VIA THE SERVICES, IS DONE AT YOUR SOLE RISK AND YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR LOSS OF DATA THAT RESULTS FROM THE DOWNLOAD OR USE OF ANY SUCH MATERIAL.â&#128;¨â&#128;¨FURTHER, PLEASE NOTE THAT NO ADVICE OR INFORMATION OBTAINED BY YOU FROM VIMEO PERSONNEL OR THROUGH THE SERVICES SHALL CREATE ANY REPRESENTATION, WARRANTY OR GUARANTY NOT EXPRESSLY PROVIDED FOR IN THESE TERMS OF SERVICE.
 
@@ -262,7 +262,7 @@ Limitation of Liability
 
 Vimeo is not responsible for losses that may occur relating to your use of Vimeo. Compensation from Vimeo, if any, will be limited to the amounts you have paid us to use the Vimeo site or services.
 
-YOU EXPRESSLY UNDERSTAND AND AGREE THAT VIMEO SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES, INCLUDING BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA OR OTHER INTANGIBLE LOSSES (EVEN IF VIMEO HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES), RESULTING FROM: (I) THE USE OR THE INABILITY TO USE THE VIMEO SITE OR SERVICES; (II) THE COST OF PROCUREMENT OF SUBSTITUTE GOODS AND SERVICES RESULTING FROM ANY GOODS, DATA, INFORMATION OR SERVICES PURCHASED OR OBTAINED OR MESSAGES RECEIVED OR TRANSACTIONS ENTERED INTO THROUGH OR FROM THE SERVICES; (III) UNAUTHORIZED ACCESS TO OR ALTERATION OF YOUR TRANSMISSIONS OR DATA; (IV) STATEMENTS OR CONDUCT OF ANY THIRD PARTY ON THE SERVICES; OR (V) ANY OTHER MATTER RELATING TO THE SERVICES OR OPERATION OF THE VIMEO SITE. IN NO EVENT SHALL VIMEO'S TOTAL LIABILITY TO YOU FOR ALL DAMAGES, LOSSES, AND CAUSES OF ACTION (WHETHER IN CONTRACT, TORT (INCLUDING, BUT NOT LIMITED TO, NEGLIGENCE), OR OTHERWISE) EXCEED THE AMOUNT PAID BY YOU, IF ANY, FOR ACCESSING THE VIMEO SITE.
+YOU EXPRESSLY UNDERSTAND AND AGREE THAT VIMEO SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES, INCLUDING BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA OR OTHER INTANGIBLE LOSSES (EVEN IF VIMEO HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES), RESULTING FROM: (I) THE USE OR THE INABILITY TO USE THE VIMEO SITE OR SERVICES; (II) THE COST OF PROCUREMENT OF SUBSTITUTE GOODS AND SERVICES RESULTING FROM ANY GOODS, DATA, INFORMATION OR SERVICES PURCHASED OR OBTAINED OR MESSAGES RECEIVED OR TRANSACTIONS ENTERED INTO THROUGH OR FROM THE SERVICES; (III) UNAUTHORIZED ACCESS TO OR ALTERATION OF YOUR TRANSMISSIONS OR DATA; (IV) STATEMENTS OR CONDUCT OF ANY THIRD PARTY ON THE SERVICES; OR (V) ANY OTHER MATTER RELATING TO THE SERVICES OR OPERATION OF THE VIMEO SITE. IN NO EVENT SHALL VIMEO’S TOTAL LIABILITY TO YOU FOR ALL DAMAGES, LOSSES, AND CAUSES OF ACTION (WHETHER IN CONTRACT, TORT (INCLUDING, BUT NOT LIMITED TO, NEGLIGENCE), OR OTHERWISE) EXCEED THE AMOUNT PAID BY YOU, IF ANY, FOR ACCESSING THE VIMEO SITE.
 
 You acknowledge and agree that VIMEO and its respective parents, subsidiaries, affiliates, successors, assigns, employees, agents, directors, officers and shareholders shall not be responsible or liable for (i) any unauthorized access to or alteration of your Submission; (ii) any Submission sent or received or not sent or received and (iii) any Submission stored on storage devices owned, operated or controlled by VIMEO. You acknowledge and agree that VIMEO and its respective parents, subsidiaries, affiliates, successors, assigns, employees, agents, directors, officers and shareholders shall not be responsible or liable for any Submission or conduct of any third party, including, but not limited to, content sent using and/or included within the Services provided by any other user of the Vimeo Site or any third party licensors or suppliers of VIMEO.
 
@@ -280,7 +280,7 @@ YOU ARE ENTIRELY RESPONSIBLE FOR MAINTAINING THE CONFIDENTIALITY OF YOUR PASSWOR
 Termination and Modification
 ----------------------------
 
-We can't be everything to everybody; if you're doing something we or law enforcement believe to be objectionable, we may suspend or terminate your access/account, and may investigate the matter further.
+We can’t be everything to everybody; if you’re doing something we or law enforcement believe to be objectionable, we may suspend or terminate your access/account, and may investigate the matter further.
 
 Vimeo may stop or modify its services. We may also delete or restrict accounts. We need to be able to use our business judgment to operate in the way or manner best suited to our needs.
 
@@ -304,15 +304,15 @@ The VIMEO name and logo(s) are the exclusive property of Vimeo, LLC. or its affi
 Third Party Intellectual Property; Copyright Notifications
 ----------------------------------------------------------
 
-Respect others' intellectual property rights, particularly others' copyrights; Vimeo does. Do not post material belonging to others as your own.
+Respect others’ intellectual property rights, particularly others’ copyrights; Vimeo does. Do not post material belonging to others as your own.
 
 Need copyright help? Do you believe someone is infringing your copyrighted material on Vimeo? Was your content taken down by mistake? Please see our [DMCA Notifications and Counter-Notifications process](dmca).
 
 VIMEO respects the intellectual property of others, and we ask our users to do the same. VIMEO may, in appropriate circumstances and at its discretion, terminate the accounts of users who infringe the intellectual property rights of others. VIMEO will remove infringing materials in accordance with the Digital Millennium Copyright Act if properly notified that content infringes copyright. Our DMCA Notifications and Counter-Notifications process is available [here](/dmca), and is hereby incorporated by reference into these Terms of Service.
 
-If you believe that your work has been copied in a way that constitutes copyright infringement, please provide VIMEO's Copyright Agent with a written notification containing all of the requisite information.
+If you believe that your work has been copied in a way that constitutes copyright infringement, please provide VIMEO’s Copyright Agent with a written notification containing all of the requisite information.
 
-Similarly, if you believe that your work has been removed or disabled by mistake or misidentification, please provide the VIMEO's Copyright Agent with a written counter-notification containing all of the requisite information.
+Similarly, if you believe that your work has been removed or disabled by mistake or misidentification, please provide the VIMEO’s Copyright Agent with a written counter-notification containing all of the requisite information.
 
 Electronic Delivery/Notice Policy and Your Consent
 --------------------------------------------------
@@ -324,13 +324,13 @@ By using the Services, you consent to receive from VIMEO all communications incl
 Governing Law and Other Miscellaneous Terms
 -------------------------------------------
 
-We're New Yorkers (most of us, anyway). As New Yorkers, these Terms of Service and your use of Vimeo.com is governed by New York law. Any lawsuits or other messiness would take place exclusively in New York, NY.
+We’re New Yorkers (most of us, anyway). As New Yorkers, these Terms of Service and your use of Vimeo.com is governed by New York law. Any lawsuits or other messiness would take place exclusively in New York, NY.
 
 These terms of service (and any related documents or policies mentioned in the terms of service) are the sole terms governing your relationship with Vimeo. If the terms are updated, the updated terms replace and previously posted terms.
 
 If you enter into any separate agreement with us, and any terms of that agreement conflicts any of these terms of service, the terms of the separate agreement will apply.
 
-Your rights, promises and obligations under these terms are your own - you can't assign or transfer them without our consent.
+Your rights, promises and obligations under these terms are your own - you can’t assign or transfer them without our consent.
 
 If you have questions or need clarification, [contact us here](/help).
 
@@ -340,8 +340,8 @@ These Terms of Service (and any further policies or documents incorporated by re
 
 No failure or delay by VIMEO in exercising any right or privilege under these Terms of Service will operate as a waiver thereof, nor will any single or partial exercise of any right or privilege preclude any other or further exercise thereof or the exercise of any other right or privilege under these Terms of Service. If any provision of these Terms of Service shall be unlawful, void, or for any reason unenforceable, then that provision shall be deemed severable from these terms and shall not affect the validity and enforceability of any remaining provisions.
 
-THAT'S ALL FOLKS!
+THAT’S ALL FOLKS!
 
-These Terms of Service are binding upon and shall inure to the benefit of both parties and their respective successors, heirs, executor, administrators, personal representatives and permitted assigns. Users may not assign their rights or obligations hereunder without VIMEO's prior written consent.
+These Terms of Service are binding upon and shall inure to the benefit of both parties and their respective successors, heirs, executor, administrators, personal representatives and permitted assigns. Users may not assign their rights or obligations hereunder without VIMEO’s prior written consent.
 
 **End of document.**
