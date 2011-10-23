@@ -191,10 +191,10 @@ All pictures, graphics, videos, and other visual media displayed on the Vimeo Se
 
 **NOTICES:** You consent to receive all communications including notices, agreements, disclosures, or other information from Vimeo electronically. Vimeo may provide all such communications by email or by posting them on the Vimeo Service. For support-related inquiries, you may send an email to [support@vimeo.com](mailto:support@vimeo.com). You may send notices of a legal nature to Vimeo at [legal@vimeo.com](mailto:legal@vimeo.com) or the following address:
 
-Vimeo, LLC  
- 555 West 18th Street  
- New York, New York 10011  
- Attention: Legal Department
+> Vimeo, LLC  
+>  555 West 18th Street  
+>  New York, New York 10011  
+>  Attention: Legal Department
 
 Nothing herein shall limit Vimeo's right to object to subpoenas, claims, or other demands.
 
@@ -203,8 +203,8 @@ Nothing herein shall limit Vimeo's right to object to subpoenas, claims, or othe
 **ENTIRE AGREEMENT:** This Agreement incorporates the following documents by reference:
 
 - [Privacy Policy](/privacy)
-- [Community Guidelines](/guidelines)
-- [Vimeo Pro Guidelines](/pro_guidelines)
+- [Community Guidelines](/help/guidelines)
+- [Vimeo Pro Guidelines](/help/pro_guidelines)
 - [Mobile App Addendum](/vimeoapp_eula)
 - [Copyright and DMCA Policy](/dmca)
 
