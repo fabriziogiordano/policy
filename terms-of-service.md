@@ -46,7 +46,7 @@ Content
 
 **RESTRICTIONS:** Except as expressly permitted by Vimeo in writing, you will not reproduce, redistribute, sell, create derivative works from, decompile, reverse engineer, or disassemble the Vimeo Service. Nor will you take any measures to interfere with or damage the Vimeo Service. All rights not expressly granted by Vimeo are reserved.
 
-**MOBILE APP:** Your use of the Vimeo Service through one of our mobile applications is also subject to our [Mobile App Addendum](LINKME).
+**MOBILE APP:** Your use of the Vimeo Service through one of our mobile applications is also subject to our [Mobile App Addendum](/vimeoapp_eula).
 
 3. Privacy
 ----------
