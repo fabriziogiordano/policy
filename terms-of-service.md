@@ -1,7 +1,7 @@
 Terms of Service
 ================
 
-Last Updated: August 1, 2011
+Last Updated: January 11, 2012
 
 **PLEASE READ THIS DOCUMENT CAREFULLY. Vimeo, LLC ("Vimeo," "we," or "us") offers an online video sharing platform and community through its website located at [Vimeo.com](/) (the "Vimeo Site") and related domains (including [VimeoPRO.com](http://vimeopro.com)), mobile applications, desktop applications, and PC television applications (collectively, the "Vimeo Service"). By registering as a member or by using the Vimeo Service in any way, you accept these Terms of Service ("Agreement"), which forms a binding agreement between you and Vimeo. If you do not wish to be bound by this Agreement, do not use the Vimeo Service. **
 
@@ -73,7 +73,7 @@ Your privacy rights are set forth in our [Privacy Policy](/privacy), which forms
 
 **CANCELATION AND REFUNDS:** Users who purchase annual subscriptions have thirty (30) days after their purchase to cancel and receive a full refund. Users who purchase monthly subscriptions have five (5) days after purchase to cancel and receive a full refund. After the cancelation period ends, all purchases are final and all fees paid are non-refundable, even if your account is later terminated by Vimeo. If you have questions, please contact [support@vimeo.com](mailto:support@vimeo.com).
 
-**RENEWALS:** By default, all subscriptions are set to automatically renew for the same period of time as the original subscription. Annual Plus subscribers may change this default setting during registration. You may decline to renew at any time prior to the commencement of a renewal subscription. Vimeo reserves the right to deny subscriptions, renewals, and other purchases for any reason.
+**RENEWALS:** By default, all subscriptions are set to automatically renew for the same period of time as the original subscription. You may decline to renew at any time prior to the commencement of a renewal subscription. Vimeo reserves the right to deny subscriptions, renewals, and other purchases for any reason.
 
 **END OF SUBSCRIPTION:** When a Vimeo Plus subscription ends, the account automatically becomes a basic (free) account. When a Vimeo PRO subscription ends, the account (including all content) will be deleted within fourteen (14) days.
 
