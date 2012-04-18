@@ -23,7 +23,7 @@ You may submit this information via:
 
 - Online: [Our DMCA claim form](/dmca/claim)
 - Email: [dmca@vimeo.com](mailto:dmca@vimeo.com)
-- Offline: [VIMEO\\'s Copyright Agent](#offline)
+- Offline: [VIMEO's Copyright Agent](#offline)
 
 Filing a DMCA Counter-notification to Restore Removed Contentâ&#128;&#148;for Vimeo Users
 -------------------------------------------------------------------------------
@@ -39,7 +39,7 @@ If you believe that your material has been removed by mistake or misidentificati
 You may submit this information via:
 
 - Email: [dmca@vimeo.com](mailto:dmca@vimeo.com)
-- Offline: [VIMEO\\'s Copyright Agent](#offline)
+- Offline: [VIMEO's Copyright Agent](#offline)
 
 Please note that we will send any complete counter-notifications we receive to the person who submitted the original DMCA notice. That person may elect to file a lawsuit against you for copyright infringement. If we do not receive notice that a lawsuit has been filed within ten (10) business days after we provide notice of your counter-notification, we will restore the removed materials. Until that time, your materials will remain removed.
 
@@ -61,13 +61,13 @@ Vimeo may disclose any communications concerning DMCA notices or other intellect
 
 If you have questions about the legal requirements of a DMCA notice, please contact an attorney or see Section 512(c)(3) of the U.S. Copyright Act, 17 U.S.C. Â§ 512(c)(3), for more information. If you have questions about the legal requirements of a DMCA counter-notification, please contact an attorney or see Section 512(g)(3) of the U.S. Copyright Act, 17 U.S.C. Â§ 512(g)(3), for more information.
 
-Vimeo\\'s Copyright Agent
--------------------------
+Vimeo's Copyright Agent
+-----------------------
 
 You may send a DMCA notice, a DMCA counter-notification, or any inquiries concerning intellectual property to VIMEOâ&#128;&#153;s Copyright Agent:
 
 > **Vimeo, LLC**  
 >  555 West 18th Street  
 >  New York, New York 10011  
->  Attn: Legal Dept. - Copyright Agent') ?>  
+>  Attn: Legal Dept. – Copyright Agent  
 > [dmca@vimeo.com](mailto:dmca@vimeo.com)
