@@ -5,7 +5,7 @@ Last Updated: May 2011
 
 VIMEO respects the intellectual property of others, and we ask our users to do the same. Each user is responsible for ensuring that the materials they upload to the Vimeo Site do not infringe any third party copyright.
 
-VIMEO will promptly remove materials from the Vimeo Site in accordance with the Digital Millennium Copyright Act ("DMCA") if properly notified that the materials infringe a third party\\'s copyright. In addition, VIMEO may, in appropriate circumstances, terminate the accounts of repeat copyright infringers.
+VIMEO will promptly remove materials from the Vimeo Site in accordance with the Digital Millennium Copyright Act ("DMCA") if properly notified that the materials infringe a third party's copyright. In addition, VIMEO may, in appropriate circumstances, terminate the accounts of repeat copyright infringers.
 
 Filing a DMCA Notice to Remove Copyrighted Content-for Copyright Holders
 ------------------------------------------------------------------------
@@ -16,7 +16,7 @@ If you believe that your work has been copied in a way that constitutes copyrigh
 2. A description of the copyrighted work that you claim has been infringed.
 3. A description of where on the Vimeo Site the material that you claim is infringing may be found, sufficient for VIMEO to locate the material (e.g., the URL).
 4. A statement that you have a good faith belief that the use of the copyrighted work is not authorized by the copyright owner, its agent, or the law.
-5. A statement by you UNDER PENALTY OF PERJURY that the information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner\\'s behalf.
+5. A statement by you UNDER PENALTY OF PERJURY that the information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner's behalf.
 6. Your electronic or physical signature.
 
 You may submit this information via:
