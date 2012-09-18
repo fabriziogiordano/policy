@@ -206,6 +206,7 @@ Nothing herein shall limit Vimeo's right to object to subpoenas, claims, or othe
 - [Community Guidelines](/help/guidelines)
 - [Vimeo Pro Guidelines](/help/pro_guidelines)
 - [Mobile App Addendum](/vimeoapp_eula)
+- [Payment Addendum](/paymentaddendum)
 - [Copyright and DMCA Policy](/dmca)
 
 This Agreement constitutes the entire understanding between Vimeo and you concerning the subject matter hereof and supersedes all prior agreements and understandings regarding the same. Notwithstanding the foregoing, this Agreement does not govern any use of Vimeo's application protocol interface (API), which is governed by our [API Agreement](/apiterms).
