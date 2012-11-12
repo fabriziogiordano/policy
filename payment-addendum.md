@@ -1,11 +1,11 @@
 Payment Addendum
 ================
 
-Last Updated: September 19, 2012
+Last Updated: November 12, 2012
 
 This Payment Addendum is a part of Vimeo's [Terms of Service](/terms) and covers payments that you make to Vimeo (except for Vimeo PRO or Plus subscriptions) and payments that Vimeo may make to you.
 
-1. *Payments made by you.* You may make payments to Vimeo for transactions and services that Vimeo offers, including Music Store purchases and Tip Jar tips. All payments are final and non-refundable. However, Vimeo may, in its sole discretion, authorize refunds if it determines that the circumstances warrant a refund.
+1. *Payments made by you.* You may make payments to Vimeo for transactions and services that Vimeo offers, including Music Store purchases, Tip Jar tips, and Pay-to-View video rentals. All payments are final and non-refundable. However, Vimeo may, in its sole discretion, authorize refunds if it determines that the circumstances warrant a refund.
 2. *Payments made to you.* Vimeo will pay you for transactions in which you are entitled to receive amounts within thirty (30) days of the end of each month in which a transaction occurred. Vimeo will make all payments to your PayPal account. To be eligible to receive payments, you must: 1. Be a Vimeo Plus or PRO subscriber.
 2. Comply with all terms of Vimeo's Terms of Service including this Payment Addendum.
 3. Be eligible to participate in a Vimeo program in which Vimeo pays users.
@@ -18,5 +18,8 @@ This Payment Addendum is a part of Vimeo's [Terms of Service](/terms) and covers
 2. Payments for any goods, services, or other valuable consideration.
 3. Tips with respect to any content that violates Vimeo's Terms of Service.
 4. *Service Fees.* Vimeo will retain 15% of tip amounts as a service fee. Vimeo will pay tips to eligible tip receivers after deducting the service fee.
-5. *Violations.* If you violate any of the terms of Vimeo's Terms of Service, including this Payment Addendum, you will forfeit any tips and must repay to Vimeo any amounts you have received with respect to such violation. Vimeo may, in its discretion, suspend, limit, or disable any user's participation in Tip Jar at any time.
-4. *General.* You agree and acknowledge that you and Vimeo are independent contractors and not partners, joint venturers, or fiduciaries of one another.
+4. *Pay-to-View.*1. *Overview.* You may view pay-to-view videos (each a "PTV Video") as set forth below.
+2. *Limited License.* After paying the fee displayed at the time of your transaction, you have the right to stream (but not download) the PTV Video for your personal viewing during the time period displayed at the time of your transaction.
+3. *Restrictions.* You may not: (a) copy or redistribute any PTV Video through any means; (b) publicly exhibit any PTV Video; or (c) resell views of any PTV Video or allow others to log into your Vimeo account for the purpose of watching a PTV Video that you have rented.
+5. *Violations.* If you violate any of the terms of Vimeo’s Terms of Service, including this Payment Addendum, you will forfeit the right to receive any payment hereunder and must repay to Vimeo any amounts you have received. Vimeo may, in its discretion, suspend, limit, or disable any user’s participation in Tip Jar or Pay-to-View at any time.
+6. *General.* You agree and acknowledge that you and Vimeo are independent contractors and not partners, joint venturers, or fiduciaries of one another. If you have a negotiated agreement with Vimeo concerning your use of Tip Jar or the Pay-to-View service, the negotiated agreement governs and supersedes any inconsistent term in this Payment Addendum.
