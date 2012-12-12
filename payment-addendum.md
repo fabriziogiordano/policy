@@ -1,7 +1,7 @@
 Payment Addendum
 ================
 
-Last Updated: September 19, 2012
+Last Updated: November 12, 2012
 
 This Payment Addendum is a part of Vimeo's [Terms of Service](/terms) and covers payments that you make to Vimeo (except for Vimeo PRO or Plus subscriptions) and payments that Vimeo may make to you.
 
