@@ -1,77 +1,84 @@
-Vimeo Cookie Policy
-===================
+Vimeo.com Cookie Policy
+=======================
 
 Last Updated: January 2013
 
- Vimeo uses cookies on Vimeo.com and related domains and applications (the â&#128;&#156;Vimeo Serviceâ&#128;&#157;). By using the Vimeo Service, you consent to the use of cookies. If you are embedding the Vimeo video player on your website, you should make appropriate disclosures about cookies to your users.
-
- This Cookie Policy is part of our [Privacy Policy](/privacy) and explains:
+This Cookie Policy is part of our [Privacy Policy](/privacy) and explains:
 
 - What cookies are
-- What cookies are used when you use the Vimeo Service
-- How third parties use cookies on the Vimeo Service
-- Your cookie options
-- Further cookie resources
+- What cookies Vimeo uses both on Vimeo.com and its embedded player
+- When cookies expire
+- How you can manage your cookie options
 
 1. What is a cookie? 
 ---------------------
 
- A cookie is a small text file that is stored in your web browser that allows Vimeo or a third party to recognize you. Cookies might be used for the following purposes: (1) to enable certain functions; (2) to provide analytics; (3) to store your preferences; and (4) to enable ad delivery and behavioral advertising.
+ A cookie is a small text file that is stored on your computer or mobile device for record keeping purposes. It usually contains the domain that it is associated with (e.g., Vimeo.com) and a unique, randomly assigned number that allows us (or a third party) to know when â&#128;&#156;youâ&#128;&#157; are using our service. Cookies can either be session cookies or persistent cookies. A session cookie expires automatically when you close your browser. A persistent cookie remains on your hard drive until it expires or you delete your cookies.
 
- Cookies can either be session cookies or persistent cookies. A session cookie expires automatically when you close your browser. A persistent cookie will remain until it expires or you delete your cookies. Expiration dates are set in the cookies themselves; some may expire after a few minutes while others may expire after multiple years. Cookies placed by the website youâ&#128;&#153;re visiting are sometimes called â&#128;&#156;first party cookies,â&#128;&#157; while cookies placed by other companies are sometimes called â&#128;&#156;third party cookies.â&#128;&#157;
+ When you visit our site, Vimeo or a third party weâ&#128;&#153;ve contracted with may place a number of cookies on your computer or mobile device. Cookies placed by the website youâ&#128;&#153;re visiting are sometimes called â&#128;&#156;first party cookies,â&#128;&#157; while cookies placed by third parties, like analytics companies or ad networks, are sometimes called â&#128;&#156;third party cookies.â&#128;&#157;
 
-2. What cookies are used when I use the Vimeo Service?
-------------------------------------------------------
+2. What cookies are used when I visit Vimeo.com?
+------------------------------------------------
 
- When you use the Vimeo Service or visit a webpage with a Vimeo video, Vimeo or a third party may place a number of cookies in your browser. Some of the cookies will only be used if you use certain features or select certain preferences, and some cookies will always be used. You can find out more about each cookie by viewing our current [cookie list](#cookie_list). We update this list quarterly, so there may be additional cookies that arenâ&#128;&#153;t yet listed.
+ When you use Vimeo.com, you might interact with the cookies listed <a href="">here</a>. We update this list quarterly, so there may be additional cookies that arenâ&#128;&#153;t yet listed. Each cookie serves one of four different purposes: (1) to enable essential website functions; (2) to provide analytics data; (3) to store preferences; and (4) to enable behavioral advertising.
 
- Each cookie serves one of four different purposes:
+ <table class="data cookies"><thead><tr><th> Category </th> <th> Description </th> </tr></thead><tbody><tr><th> 1. Essential step cookies </th> <td>These cookies allow you to use an essential function of our website, such as:
 
- <table class="data"><thead><tr><th> Category </th> <th> Description </th> </tr></thead><tbody><tr><th> 1. Essential cookies </th> <td>These first party cookies allow you to use a feature of the Vimeo Service, such as:
-
-- Staying logged in
+- Staying logged into Vimeo
 - Viewing a private video or album
 - Watching videos in Couch mode
-- Making purchases
+- Making purchases from Vimeo
  
-</td> </tr><tr><th> 2. Analytics cookies </th> <td> These cookies track information about how the Vimeo Service is being used so that we can make improvements and report our performance. We might also use analytics cookies to test new ads, pages, or features to see how users react to them. Analytics cookies may either be first party cookies or third party cookies. </td> </tr><tr><th> 3. Preference Cookies </th> <td>These first party cookies store your Vimeo Service preferences, such as:
+</td> </tr><tr><th> 2. Analytics cookies </th> <td> These cookies help track information about how our site is being used so that we can make improvements and report our performance. We use our own cookies to track performance and measure the results of tests we conduct. Our analytics providers, including Google Analytics, also set cookies for analytics purposes. </td> </tr><tr><th> 3. Preference Cookies </th> <td>These cookies store your Vimeo preferences, such as:
 
 - Language preference
 - Volume preference
 - HD mode preference
  
-</td> </tr><tr><th> 4. Ad targeting cookies </th> <td>These third party cookies are placed by advertising platforms or networks in order to:
+</td> </tr><tr><th> 4. Ad targeting cookies </th> <td>These cookies are placed by third party advertising platforms or networks in order to:
 
-- Deliver ads and track ad performance
-- Enable advertising networks to deliver ads that may be relevant to you based upon your activities (this is sometimes called â&#128;&#156;behavioralâ&#128;&#157; or â&#128;&#156;targetedâ&#128;&#157; advertising)
+- Track advertising delivery and performance (e.g., the number of ads delivered and whether they were clicked on).
+- Enable advertising networks to build user profiles in order to deliver ads that may be relevant to you based upon your actions on Vimeo or another website. For example, if an ad network knows that you have recently searched for the term â&#128;&#156;camera,â&#128;&#157; it might be able to display camera ads to you.
  
-</td></tr></tbody></table> 3. How do third parties use cookies on the Vimeo Service? 
------------------------------------------------------------
+</td></tr></tbody></table> 3. What cookies does Vimeo use in its embedded player? 
+--------------------------------------------------------
 
- Third party companies like analytics companies and ad networks generally use cookies to collect user information on an anonymous basis. They may use that information to build a profile of your activities on the Vimeo Service and other websites that youâ&#128;&#153;ve visited. You can learn more about how these companies use your information by visiting the privacy policies listed in our [cookie list](#cookie_list).
+ If youâ&#128;&#153;re not using Vimeo.com, you might still interact with Vimeo cookies when you visit a third party page that has a Vimeo video embedded in it. When you watch this video, the following cookies may be placed on your computer or mobile device: [Explain].
 
- 4. What are my cookie options? 
---------------------------------
+ 4. Do third parties use cookies to collect my personal information? 
+---------------------------------------------------------------------
 
- If you donâ&#128;&#153;t like the idea of cookies or certain types of cookies, you can change your browserâ&#128;&#153;s settings to delete cookies that have already been set and to not accept new cookies. To learn more about how to do this, visit the help pages of your browser. Please note, however, that if you delete cookies or do not accept them, you might not be able to use all of the features we offer, you may not be able to store your preferences, and some of our pages might not display properly.
+ Cookies themselves donâ&#128;&#153;t collect data; rather, they allow us (or a third party) to recognize you and associate you with certain activities on our site. We do not provide third party analytics companies or advertisers with personal information that you have provided to us, such as your name or email address.
 
- You may also opt out of third party cookies by following the instructions provided by each third party in its privacy policy. Please see our [cookie list](#cookie_list) for links to the third party privacy policies. Some third party ad networks are members of the Network Advertising Initiative (NAI). You can visit the [NAIâ&#128;&#153;s website](http://www.networkadvertising.org) to find out how to opt out of membersâ&#128;&#153; cookies.
+ These companies might, however, track your IP address and associate it with a cookie. IP address information is used for either analytics or ad delivery/targeting purposes. For example, an analytics company will use IP addresses tell us how many users we have in different countries. And an ad company might use IP addresses to deliver ads in certain countries, but not others. Third parties generally anonymize IP address information after they receive it.
 
- 5. Do you use any other user tracking technologies? 
------------------------------------------------------
+ For more information on each third partyâ&#128;&#153;s policies and practices, please click on the privacy policy links in our list of cookies [LINK].
 
- We use additional technologies to help track user activities and preferences. For example, we use web beacons (also known as clear gifs, pixel tags or web bugs). Web beacons are tiny graphics (about the size of period) with a unique identifier that are embedded invisibly on web pages or emails. They are used to track user activities and communicate with cookies. You cannot opt out of web beacons used in webpages, but you can limit their use by opting out of the cookies they interact with. You can opt out of web beacons used in emails by setting your email client to render emails in text mode only. Finally, we use local storage to facilitate certain functions, but we do not retain the data captured via local storage.
+ 5. When do persistent cookies expire? 
+---------------------------------------
 
- 6. Where can I find more information about cookies? 
------------------------------------------------------
+ It depends on the cookie. Some last for a few minutes to a few hours, while some will not expire for years (unless you delete them). For the list of expiration dates, see our list of cookies here [LINK].
 
- You may learn more about cookies and how to opt out of them by visiting the following third party websites:
+ 6. What options do I have? 
+----------------------------
 
-- [About.com Browser Guide](http://browsers.about.com/od/faq/tp/delete-cookies.htm)
-- [All About Cookies.org](http://allaboutcookies.org)
-- [Network Advertising Initiative](http://www.networkadvertising.org/)
+ If you donâ&#128;&#153;t like the idea of cookies or certain types of cookies, you can change the settings in your browser to not accept cookies. You may also delete cookies that have already been set. Please note, however, that if you delete cookies or do not accept them, you may not be able to use all of the features we offer. In addition, you may opt out using these non-browser options:
 
- If you have any questions about our Cookie Policy, you may contact us by [email](mailto:privacy@vimeo.com) or by writing to us at:
+ <table class="data cookies"><thead><tr><th> Category </th> <th> How to opt-out </th> </tr></thead><tbody><tr><th> 1. Essential step cookies </th> <td> We do not permit you to opt out of these cookies except through your browser settings. </td> </tr><tr><th> 2. Analytics cookies </th> <td> You may opt out of Google Analytics cookies by following the instructions provided by Google here. </td> </tr><tr><th> 3. Preference Cookies </th> <td> To opt out of preference cookies, click here. </td> </tr><tr><th> 4. Ad targeting cookies </th> <td>To opt out of third party ad cookies, you may:
+
+- Visit the privacy policies of each ad network and follow the opt-out instructions they provide.
+- Opt out using the [Network Advertising Initiative](http://www.networkadvertising.org)
+- Opt our using [Your Online Choices](http://www.youronlinechoices.com/uk/your-ad-choices)
+ 
+</td></tr></tbody></table> 7. Do you use any other tracking technologies? 
+------------------------------------------------
+
+ Yes. We use web beacons (also known as clear gifs, pixel tags or web bugs). Web beacons are tiny graphics (about the size of period) with a unique identifier that are embedded invisibly on web pages or emails. They are used to track the online movements of web users and communicate with cookies. You cannot opt out of web beacons, but you can limit their use by opting out of the cookies they interact with. [Any other technologies?]
+
+ 8. Contact information 
+------------------------
+
+ If you have any questions about this Cookie Policy, you may contact us here or by writing to us at:
 
 > Vimeo, LLC  
 >  555 West 18th Street  
