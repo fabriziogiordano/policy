@@ -27,7 +27,7 @@ Last Updated: January 2013
 
  Each cookie serves one of four different purposes:
 
- <table class="data cookies"><thead><tr><th> Category </th> <th> Description </th> </tr></thead><tbody><tr><th> 1. Essential cookies </th> <td>These first party cookies allow you to use a feature of the Vimeo Service, such as:
+ <table class="data"><thead><tr><th> Category </th> <th> Description </th> </tr></thead><tbody><tr><th> 1. Essential cookies </th> <td>These first party cookies allow you to use a feature of the Vimeo Service, such as:
 
 - Staying logged in
 - Viewing a private video or album
@@ -73,6 +73,6 @@ Last Updated: January 2013
 
  If you have any questions about our Cookie Policy, you may contact us by [email](mailto:privacy@vimeo.com) or by writing to us at:
 
-> Vimeo, LLC  
->  555 West 18th Street  
->  New York, New York 10011
+ <address> Vimeo, LLC  
+ 555 West 18th Street  
+ New York, New York 10011 </address>
