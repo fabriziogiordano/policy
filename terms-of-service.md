@@ -1,7 +1,7 @@
 Terms of Service
 ================
 
-Last Updated: January 11, 2012
+Last Updated: January 2013
 
 **PLEASE READ THIS DOCUMENT CAREFULLY. Vimeo, LLC ("Vimeo," "we," or "us") offers an online video sharing platform and community through its website located at [Vimeo.com](/) (the "Vimeo Site") and related domains (including [VimeoPRO.com](http://vimeopro.com)), mobile applications, desktop applications, and PC television applications (collectively, the "Vimeo Service"). By registering as a member or by using the Vimeo Service in any way, you accept these Terms of Service ("Agreement"), which forms a binding agreement between you and Vimeo. If you do not wish to be bound by this Agreement, do not use the Vimeo Service. **
 
@@ -203,6 +203,7 @@ Nothing herein shall limit Vimeo's right to object to subpoenas, claims, or othe
 **ENTIRE AGREEMENT:** This Agreement incorporates the following documents by reference:
 
 - [Privacy Policy](/privacy)
+- [Cookie Policy](/cookie_policy)
 - [Community Guidelines](/help/guidelines)
 - [Vimeo Pro Guidelines](/help/pro_guidelines)
 - [Mobile App Addendum](/vimeoapp_eula)
