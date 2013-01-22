@@ -23,7 +23,7 @@ Last Updated: January 2013
 2. What cookies are used when I use the Vimeo Service?
 ------------------------------------------------------
 
- When you use the Vimeo Service or visit a webpage with a Vimeo video, Vimeo or a third party may place a number of cookies in your browser. Some of the cookies will only be used if you use certain features or select certain preferences, and some cookies will always be used. You can find out more about each cookie by viewing our current [cookie list](#cookie_list). We update this list quarterly, so there may be additional cookies that arenâ&#128;&#153;t yet listed.
+ When you use the Vimeo Service or visit a webpage with a Vimeo video, Vimeo or a third party may place a number of cookies in your browser. Some of the cookies will only be used if you use certain features or select certain preferences, and some cookies will always be used. You can find out more about each cookie by viewing our current [cookie list](/cookie_list). We update this list quarterly, so there may be additional cookies that arenâ&#128;&#153;t yet listed.
 
  Each cookie serves one of four different purposes:
 
@@ -48,14 +48,14 @@ Last Updated: January 2013
 </td></tr></tbody></table> 3. How do third parties use cookies on the Vimeo Service? 
 -----------------------------------------------------------
 
- Third party companies like analytics companies and ad networks generally use cookies to collect user information on an anonymous basis. They may use that information to build a profile of your activities on the Vimeo Service and other websites that youâ&#128;&#153;ve visited. You can learn more about how these companies use your information by visiting the privacy policies listed in our [cookie list](#cookie_list).
+ Third party companies like analytics companies and ad networks generally use cookies to collect user information on an anonymous basis. They may use that information to build a profile of your activities on the Vimeo Service and other websites that youâ&#128;&#153;ve visited. You can learn more about how these companies use your information by visiting the privacy policies listed in our [cookie list](/cookie_list).
 
  4. What are my cookie options? 
 --------------------------------
 
  If you donâ&#128;&#153;t like the idea of cookies or certain types of cookies, you can change your browserâ&#128;&#153;s settings to delete cookies that have already been set and to not accept new cookies. To learn more about how to do this, visit the help pages of your browser. Please note, however, that if you delete cookies or do not accept them, you might not be able to use all of the features we offer, you may not be able to store your preferences, and some of our pages might not display properly.
 
- You may also opt out of third party cookies by following the instructions provided by each third party in its privacy policy. Please see our [cookie list](#cookie_list) for links to the third party privacy policies. Some third party ad networks are members of the Network Advertising Initiative (NAI). You can visit the [NAIâ&#128;&#153;s website](http://www.networkadvertising.org) to find out how to opt out of membersâ&#128;&#153; cookies.
+ You may also opt out of third party cookies by following the instructions provided by each third party in its privacy policy. Please see our [cookie list](/cookie_list) for links to the third party privacy policies. Some third party ad networks are members of the Network Advertising Initiative (NAI). You can visit the [NAIâ&#128;&#153;s website](http://www.networkadvertising.org) to find out how to opt out of membersâ&#128;&#153; cookies.
 
  5. Do you use any other user tracking technologies? 
 -----------------------------------------------------
