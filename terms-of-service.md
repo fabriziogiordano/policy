@@ -1,9 +1,9 @@
 Terms of Service
 ================
 
-Last Updated: January 2013
+Last Updated: January 11, 2012
 
-**PLEASE READ THIS DOCUMENT CAREFULLY. Vimeo, LLC ("Vimeo," "we," or "us") offers an online video sharing platform and community through its website located at [Vimeo.com](/) (the "Vimeo Site") and related domains (including [VimeoPRO.com](http://vimeopro.com)), mobile applications, desktop applications, and PC television applications (collectively, the "Vimeo Service"). By registering as a member or by using the Vimeo Service in any way, you accept these Terms of Service ("Agreement"), which forms a binding agreement between you and Vimeo. If you do not wish to be bound by this Agreement, do not use the Vimeo Service. **
+ **PLEASE READ THIS DOCUMENT CAREFULLY. Vimeo, LLC ("Vimeo," "we," or "us") offers an online video sharing platform and community through its website located at [Vimeo.com](/) (the "Vimeo Site") and related domains (including [VimeoPRO.com](http://vimeopro.com)), mobile applications, desktop applications, and PC television applications (collectively, the "Vimeo Service"). By registering as a member or by using the Vimeo Service in any way, you accept these Terms of Service ("Agreement"), which forms a binding agreement between you and Vimeo. If you do not wish to be bound by this Agreement, do not use the Vimeo Service. **
 
 Content
 -------
@@ -28,11 +28,11 @@ Content
 1. Who May Use the Vimeo Service
 --------------------------------
 
-AGE REQUIREMENT: You must be at least 13 years old to use the Vimeo Service. If you are at least 13, but are still a minor (this depends on where you live), you must have your parent or legal guardian's permission to use the Vimeo Service. Please have him or her read this Agreement with you.
+**AGE REQUIREMENT:** You must be at least 13 years old to use the Vimeo Service. If you are at least 13, but are still a minor (this depends on where you live), you must have your parent or legal guardian's permission to use the Vimeo Service. Please have him or her read this Agreement with you.
 
-NOTICE TO PARENTS AND GUARDIANS: By granting your child permission to use the Vimeo Service, you agree to the terms of this Agreement on behalf of your child. You are responsible for monitoring and supervising your child's use of the Vimeo Service. If your child is using the Vimeo Service and is either under 13 or does not have your permission, please contact us immediately so that we can disable his or her access. If you have questions about whether the Vimeo Service is appropriate for your child, please review our [Frequently Asked Questions](/help/faq) or contact us at [support@vimeo.com](mailto:support@vimeo.com).
+**NOTICE TO PARENTS AND GUARDIANS:** By granting your child permission to use the Vimeo Service, you agree to the terms of this Agreement on behalf of your child. You are responsible for monitoring and supervising your child's use of the Vimeo Service. If your child is using the Vimeo Service and is either under 13 or does not have your permission, please contact us immediately so that we can disable his or her access. If you have questions about whether the Vimeo Service is appropriate for your child, please review our [Frequently Asked Questions](/help/faq) or contact us at [support@vimeo.com](mailto:support@vimeo.com).
 
-WARNING: Even if you are old enough to use the Vimeo Service and/or have your parent's or guardian's permission, some of the content available within the Vimeo Service may not be appropriate for you. Some content may contain "R-rated" material, nudity, profanity, and mature subject matter. If you are under 18, do not view such content.
+**WARNING:** Even if you are old enough to use the Vimeo Service and/or have your parent's or guardian's permission, some of the content available within the Vimeo Service may not be appropriate for you. Some content may contain "R-rated" material, nudity, profanity, and mature subject matter. If you are under 18, do not view such content.
 
 2. License to Use the Vimeo Service
 -----------------------------------
@@ -93,7 +93,7 @@ Your privacy rights are set forth in our [Privacy Policy](/privacy), which forms
 7. Content Restrictions
 -----------------------
 
-You may not upload, post, or transmit (collectively, "submit") any video, image, text, audio recording, or other work (collectively, "content") that:'
+You may not upload, post, or transmit (collectively, "submit") any video, image, text, audio recording, or other work (collectively, "content") that:
 
 - Infringes any third party's copyrights or other rights (e.g., trademark, privacy rights, etc.);
 - Contains sexually explicit content or pornography (provided, however, that non-sexual nudity is permitted);
@@ -203,7 +203,6 @@ Nothing herein shall limit Vimeo's right to object to subpoenas, claims, or othe
 **ENTIRE AGREEMENT:** This Agreement incorporates the following documents by reference:
 
 - [Privacy Policy](/privacy)
-- [Cookie Policy](/cookie_policy)
 - [Community Guidelines](/help/guidelines)
 - [Vimeo Pro Guidelines](/help/pro_guidelines)
 - [Mobile App Addendum](/vimeoapp_eula)
