@@ -71,7 +71,7 @@ Last Updated: January 2013
 - [All About Cookies.org](http://allaboutcookies.org)
 - [Network Advertising Initiative](http://www.networkadvertising.org/)
 
- If you have any questions about our Cookie Policy, you may contact us by [email](mailto:privacy@vimeo.com) or by writing to us at:
+ If you have any questions about our Cookie Policy, you may contact us by [email](/help/contact) or by writing to us at:
 
  <address> Vimeo, LLC  
  555 West 18th Street  
