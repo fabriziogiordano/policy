@@ -30,7 +30,7 @@ Content
 
 **AGE REQUIREMENT:** You must be at least 13 years old to use the Vimeo Service. If you are at least 13, but are still a minor (this depends on where you live), you must have your parent or legal guardian's permission to use the Vimeo Service. Please have him or her read this Agreement with you.
 
-**NOTICE TO PARENTS AND GUARDIANS:** By granting your child permission to use the Vimeo Service, you agree to the terms of this Agreement on behalf of your child. You are responsible for monitoring and supervising your child's use of the Vimeo Service. If your child is using the Vimeo Service and is either under 13 or does not have your permission, please contact us immediately so that we can disable his or her access. If you have questions about whether the Vimeo Service is appropriate for your child, please review our [Frequently Asked Questions](/help/faq) or contact us at [support@vimeo.com](mailto:support@vimeo.com).
+**NOTICE TO PARENTS AND GUARDIANS:** By granting your child permission to use the Vimeo Service, you agree to the terms of this Agreement on behalf of your child. You are responsible for monitoring and supervising your child's use of the Vimeo Service. If your child is using the Vimeo Service and is either under 13 or does not have your permission, please contact us immediately so that we can disable his or her access. If you have questions about whether the Vimeo Service is appropriate for your child, please review our [Frequently Asked Questions](/help/faq) or [contact us](/help/contact).
 
 **WARNING:** Even if you are old enough to use the Vimeo Service and/or have your parent's or guardian's permission, some of the content available within the Vimeo Service may not be appropriate for you. Some content may contain "R-rated" material, nudity, profanity, and mature subject matter. If you are under 18, do not view such content.
 
@@ -64,14 +64,14 @@ Your privacy rights are set forth in our [Privacy Policy](/privacy), which forms
 
 **USER NAME:** We encourage you to use your real name. If you are a business, government, or non-profit entity, you must use the actual name of your organization. You may not use someone else's name, a name that violates any third party right, or a name that is obscene or otherwise objectionable.
 
-**ACCOUNT SECURITY:** You are responsible for all activity that occurs under your account, including any activity by unauthorized users. You must not allow others to use your account. You must safeguard the confidentiality of your password. If you are using a computer that others have access to, you must log out of your account after using the Vimeo Service. If you become aware of an unauthorized access to your account, you must change your password and notify us immediately at [support@vimeo.com](mailto:support@vimeo.com).
+**ACCOUNT SECURITY:** You are responsible for all activity that occurs under your account, including any activity by unauthorized users. You must not allow others to use your account. You must safeguard the confidentiality of your password. If you are using a computer that others have access to, you must log out of your account after using the Vimeo Service. If you become aware of an unauthorized access to your account, you must change your password and [notify us immediately](/help/contact).
 
 5. Subscriptions and Purchases
 ------------------------------
 
 **OPTIONS:** In addition to offering basic (free) memberships, we offer Vimeo Plus and Vimeo PRO subscriptions. Vimeo PRO users may also purchase additional storage and plays. Please see our subscription pages for current [Plus](/plus) and [Pro](/pro) features and pricing. Features and prices are subject to change. All fees may be subject to taxes.
 
-**CANCELATION AND REFUNDS:** Users who purchase annual subscriptions have thirty (30) days after their purchase to cancel and receive a full refund. Users who purchase monthly subscriptions have five (5) days after purchase to cancel and receive a full refund. After the cancelation period ends, all purchases are final and all fees paid are non-refundable, even if your account is later terminated by Vimeo. If you have questions, please contact [support@vimeo.com](mailto:support@vimeo.com).
+**CANCELATION AND REFUNDS:** Users who purchase annual subscriptions have thirty (30) days after their purchase to cancel and receive a full refund. Users who purchase monthly subscriptions have five (5) days after purchase to cancel and receive a full refund. After the cancelation period ends, all purchases are final and all fees paid are non-refundable, even if your account is later terminated by Vimeo. If you have questions, please [contact us](/help/contact).
 
 **RENEWALS:** By default, all subscriptions are set to automatically renew for the same period of time as the original subscription. You may decline to renew at any time prior to the commencement of a renewal subscription. Vimeo reserves the right to deny subscriptions, renewals, and other purchases for any reason.
 
@@ -148,7 +148,7 @@ You will indemnify, defend, and hold harmless Vimeo and its affiliates, director
 12. Third Party Copyrights and Other Rights
 -------------------------------------------
 
-Vimeo respects the intellectual property rights of others. If you believe that your copyright has been infringed, please send us a notice as set forth in our [Copyright and DMCA Policy](/dmca), which is incorporated into this Agreement. For other intellectual property claims, please send us a notice at [legal@vimeo.com](mailto:legal@vimeo.com).
+Vimeo respects the intellectual property rights of others. If you believe that your copyright has been infringed, please send us a notice as set forth in our [Copyright and DMCA Policy](/dmca), which is incorporated into this Agreement. For other intellectual property claims, please send us a notice at legal[at]vimeo[dot]com.
 
 13. Disclaimers
 ---------------
@@ -189,7 +189,7 @@ All pictures, graphics, videos, and other visual media displayed on the Vimeo Se
 
 **SUCCESSORS; ASSIGNMENT; NO THIRD PARTY BENEFICIARIES:** This Agreement is binding upon and shall inure to the benefit of both parties and their respective successors, heirs, executors, administrators, personal representatives, and permitted assigns. You may not assign this Agreement without Vimeo's prior written consent. No third party shall have any rights hereunder.
 
-**NOTICES:** You consent to receive all communications including notices, agreements, disclosures, or other information from Vimeo electronically. Vimeo may provide all such communications by email or by posting them on the Vimeo Service. For support-related inquiries, you may send an email to [support@vimeo.com](mailto:support@vimeo.com). You may send notices of a legal nature to Vimeo at [legal@vimeo.com](mailto:legal@vimeo.com) or the following address:
+**NOTICES:** You consent to receive all communications including notices, agreements, disclosures, or other information from Vimeo electronically. Vimeo may provide all such communications by email or by posting them on the Vimeo Service. For support-related inquiries, you may [contact us](/help/contact). You may send notices of a legal nature to Vimeo at legal[at]vimeo[dot]com or the following address:
 
 > Vimeo, LLC  
 >  555 West 18th Street  
