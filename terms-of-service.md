@@ -41,7 +41,7 @@ Content
 
 **COMMERCIAL USE:** You may not use the Vimeo Service for commercial purposes unless:
 
-- You are a Vimeo PRO user, in which case you may use and access the Vimeo Service for commercial and non-commercial purposes, subject to compliance with the [Vimeo PRO Guidelines](/pro_guidelines); or
+- You are a Vimeo PRO user, in which case you may use and access the Vimeo Service for commercial and non-commercial purposes, subject to compliance with the [Vimeo Guidelines](/guidelines); or
 - You are a small-scale independent production company, non-profit, or artist, in which case you may use the Vimeo Service to showcase or promote your own creative works.
 
 **RESTRICTIONS:** Except as expressly permitted by Vimeo in writing, you will not reproduce, redistribute, sell, create derivative works from, decompile, reverse engineer, or disassemble the Vimeo Service. Nor will you take any measures to interfere with or damage the Vimeo Service. All rights not expressly granted by Vimeo are reserved.
@@ -104,7 +104,7 @@ You may not upload, post, or transmit (collectively, "submit") any video, image,
 - Promotes fraudulent schemes, multi level marketing (MLM) schemes, get rich quick schemes, online gaming and gambling, cash gifting, work from home businesses, or any other dubious money-making ventures; or
 - Violates any law.
 
-All videos you submit must also comply with our [Uploading Guidelines](/guidelines#uploading_guidelines), which are incorporated into this Agreement. If you are a Vimeo PRO user, you must comply with our [Vimeo PRO Guidelines](/pro_guidelines).
+All videos you submit must also comply with our [Uploading Guidelines](/guidelines#uploading_guidelines), which are incorporated into this Agreement. If you are a Vimeo PRO user, you must comply with our [Vimeo Guidelines](/guidelines).
 
 8. Code of Conduct
 ------------------
@@ -204,8 +204,7 @@ Nothing herein shall limit Vimeo's right to object to subpoenas, claims, or othe
 
 - [Privacy Policy](/privacy)
 - [Cookie Policy](/cookie_policy)
-- [Community Guidelines](/help/guidelines)
-- [Vimeo Pro Guidelines](/help/pro_guidelines)
+- [Vimeo Guidelines](/help/guidelines)
 - [Mobile App Addendum](/vimeoapp_eula)
 - [Payment Addendum](/paymentaddendum)
 - [Copyright and DMCA Policy](/dmca)
