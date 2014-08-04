@@ -1,7 +1,7 @@
-Vimeo.com DMCA (Copyright) Notifications and Counter-Notifications Process
-==========================================================================
+Vimeo DMCA (Copyright) Notifications and Counter-Notifications Process
+======================================================================
 
-Last Updated: May 2011
+Last Updated: August 2014
 
 VIMEO respects the intellectual property of others, and we ask our users to do the same. Each user is responsible for ensuring that the materials they upload to the Vimeo Site do not infringe any third party copyright.
 
@@ -41,7 +41,7 @@ You may submit this information via:
 - Email: [dmca@vimeo.com](mailto:dmca@vimeo.com)
 - Offline: [VIMEO's Copyright Agent](#offline)
 
-Please note that we will send any complete counter-notifications we receive to the person who submitted the original DMCA notice. That person may elect to file a lawsuit against you for copyright infringement. If we do not receive notice that a lawsuit has been filed within ten (10) business days after we provide notice of your counter-notification, we will restore the removed materials. Until that time, your materials will remain removed.
+Please note that we will send any complete counter-notifications we receive to the person who submitted the original DMCA notice. That person may elect to file a lawsuit against you for copyright infringement. If we do not receive notice that a lawsuit has been filed within ten (10) business days after we provide notice of your counter-notification, we will restore the removed materials. Until that time, your materials will remain removed. We will provide a copy of the original DMCA takedown notice upon request.
 
 Repeat Infringer Policy
 -----------------------
@@ -64,7 +64,7 @@ If you have questions about the legal requirements of a DMCA notice, please cont
 Vimeo's Copyright Agent
 -----------------------
 
-You may send a DMCA notice, a DMCA counter-notification, or any inquiries concerning intellectual property to VIMEOâ&#128;&#153;s Copyright Agent:
+In addition to the webforms we provide, you may send a DMCA notice, a DMCA counter-notification, or any inquiries concerning intellectual property to VIMEOâ&#128;&#153;s Copyright Agent:
 
 > **Vimeo, LLC**  
 >  555 West 18th Street  
