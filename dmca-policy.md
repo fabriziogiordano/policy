@@ -25,7 +25,7 @@ You may submit this information via:
 - Email: [dmca@vimeo.com](mailto:dmca@vimeo.com)
 - Offline: [VIMEO's Copyright Agent](#offline)
 
-Filing a DMCA Counter-notification to Restore Removed Contentâ&#128;&#148;for Vimeo Users
+Filing a DMCA Counter-Notification to Restore Removed Contentâ&#128;&#148;for Vimeo Users
 -------------------------------------------------------------------------------
 
 If you believe that your material has been removed by mistake or misidentification, please provide VIMEO with a written counter-notification containing the following information:
@@ -38,6 +38,7 @@ If you believe that your material has been removed by mistake or misidentificati
 
 You may submit this information via:
 
+- Online: [Our DMCA Counter-Notifcation form](/dmca/counter)
 - Email: [dmca@vimeo.com](mailto:dmca@vimeo.com)
 - Offline: [VIMEO's Copyright Agent](#offline)
 
