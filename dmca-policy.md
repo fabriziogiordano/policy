@@ -58,7 +58,7 @@ In filing a DMCA notice or counter-notification, please make sure that you have 
 
 In addition, please make sure that all of the information you provide is accurate. **UNDER SECTION 512(f) OF THE COPYRIGHT ACT, 17 U.S.C. Â§ 512(f), ANY PERSON WHO KNOWINGLY MATERIALLY MISREPRESENTS THAT MATERIAL OR ACTIVITY IS INFRINGING OR WAS REMOVED OR DISABLED BY MISTAKE OR MISIDENTIFICATION MAY BE SUBJECT TO LIABILITY.**
 
-Vimeo may disclose any communications concerning DMCA notices or other intellectual property complaints with third parties, including the users who have posted the allegedly infringing material.
+Vimeo may disclose any communications concerning DMCA notices or other intellectual property complaints with third parties, including the users who have posted the allegedly infringing material, and may provide DMCA notices to [Chilling Effects](https://chillingeffects.org/)
 
 If you have questions about the legal requirements of a DMCA notice, please contact an attorney or see Section 512(c)(3) of the U.S. Copyright Act, 17 U.S.C. Â§ 512(c)(3), for more information. If you have questions about the legal requirements of a DMCA counter-notification, please contact an attorney or see Section 512(g)(3) of the U.S. Copyright Act, 17 U.S.C. Â§ 512(g)(3), for more information.
 
