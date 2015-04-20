@@ -1,7 +1,7 @@
 Payment Addendum
 ================
 
-Last Updated: November 3, 2014
+Last Updated: April 20, 2015
 
  This Payment Addendum is a part of Vimeo’s [Terms of Service](/terms) and covers payments that you make to Vimeo (except for Vimeo PRO or Plus subscriptions) and payments that Vimeo may make to you.
 
@@ -19,8 +19,8 @@ Last Updated: November 3, 2014
 3. Tips with respect to any content that violates Vimeo’s Terms of Service.
 4. *Service Fees.* Vimeo will retain 15% of tip amounts as a service fee. Vimeo will pay tips to eligible tip receivers after deducting the service fee.
 4. *Vimeo on Demand.*1. *Overview.* You may view and distribute videos through the Vimeo on Demand (“VOD”) service as set forth below.
-2. *Watching VOD videos.* You may “rent” (i.e., stream for a period of time) or “buy” (i.e., download) certain videos made available for VOD distribution. The following terms apply to such transactions: 1. Limited License. After paying the fee displayed at the time of your transaction, you have the right to (a) stream rented VOD videos for your personal viewing during the time period displayed at the time of your transaction; and/or (b) download VOD videos you’ve bought for your own personal viewing.
-2. Limitations. If a VOD distributor ceases to make a video available through VOD or if a video becomes unavailable for legal reasons, Vimeo may, without penalty, eliminate or reduce the amount of time you have to stream or download the video, notwithstanding the terms displayed at the time of your purchase.
+2. *Watching VOD videos.* You may “rent” (i.e., stream for a period of time) or “buy” (i.e., download or stream for an indefinite period of time) certain videos made available for VOD distribution. The following terms apply to such transactions: 1. Limited License. After paying the fee displayed at the time of your transaction, you have the right to (a) stream rented VOD videos for your personal viewing during the time period displayed at the time of your transaction; and/or (b) download VOD videos you’ve bought for your own personal viewing.
+2. Limitations. Videos are provided on an as-available basis. Vimeo does not guarantee that any particular video will be available for streaming or download after purchase. If a VOD distributor ceases to make a video available through VOD or if a video becomes unavailable for legal reasons, Vimeo may, without penalty, eliminate or reduce the amount of time you have to stream or download the video, notwithstanding the terms displayed at the time of your purchase.
 3. Restrictions. You may not: (a) copy or redistribute any VOD video through any means; (b) publicly exhibit any VOD video; or (c) resell views of any VOD video or allow others to log into your Vimeo account for the purpose of watching a VOD video that you have rented.
 3. *Distributing VOD videos.* If you wish to distribute a video through VOD, the following terms apply: 1. You must be a PRO subscriber.
 2. You must choose the following terms for each such video: (a) the price you wish to charge viewers who rent or buy the video; (b) whether you wish to offer a rent and/or buy option; (c) the rental period if applicable; and (d) the territory where the video may be distributed.
