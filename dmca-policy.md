@@ -72,3 +72,8 @@ In addition to the webforms we provide, you may send a DMCA notice, a DMCA count
 >  New York, New York 10011  
 >  Attn: Legal Dept. – Copyright Agent  
 > [dmca@vimeo.com](mailto:dmca@vimeo.com)
+
+Trademark Law and Infringement
+------------------------------
+
+If you believe a Vimeo member is infringing on your trademark, please file a [trademark complaint](/help/violations/trademark) and a Vimeo moderator will investigate your claim right away. If you are unsure if your trademark is being infringed, please visit our [Trademark FAQ](/help/faq/legal-stuff/trademark) to learn more about trademark law and infringement.
