@@ -1,13 +1,13 @@
-Vimeo iOS App  
+Vimeo and Cameo iOS App  
 End User License Addendum
-=========================================
+===================================================
 
-Last Updated: December 2014
+Last Updated: June 18, 2015
 
-This Vimeo iOS App End User License Addendum ("**Mobile Addendum**") is between you and Vimeo, LLC ("**Vimeo**") and governs your use of Vimeoâ&#128;&#153;s mobile applications for iOS including its [Vimeo app](https://itunes.apple.com/us/app/vimeo/id425194759?mt=8) and [Cameo app](https://itunes.apple.com/us/app/cameo-video-editor-movie-maker/id716354815?mt=8) (collectively, the "**Vimeo iOS Apps**"). This Mobile Addendum is an addendum to Vimeoâ&#128;&#153;s **Terms of Service** ([www.vimeo.com/terms](/terms)).
+This Vimeo and Cameo iOS App End User License Addendum ("**Mobile Addendum**") is between you and Vimeo, LLC ("**Vimeo**") and governs your use of Vimeoâ&#128;&#153;s mobile applications for iOS including its [Vimeo app](https://itunes.apple.com/us/app/vimeo/id425194759?mt=8) and [Cameo app](/cameo) (collectively, the "**Vimeo iOS Apps**"). This Mobile Addendum is an addendum to Vimeoâ&#128;&#153;s **Terms of Service** ([www.vimeo.com/terms](/terms)).
 
 1. **Parties.** This Mobile Addendum is between you and Vimeo only, and not Apple, Inc. ("**Apple**"). Vimeo, not Apple, is solely responsible for the Vimeo iOS Apps and their content. Although Apple is not a party to this Mobile Addendum, Apple has the right to enforce this Mobile Addendum against you as a third party beneficiary relating to your use of the Vimeo iOS Apps.
-2. **Terms of Service.** To use the Vimeo iOS Apps, you must register to become a Vimeo member. In doing so, you must accept Vimeoâ&#128;&#153;s Terms of Service.
+2. **Terms of Service.** To use the Vimeo iOS Apps, you may be required to register to become a Vimeo member. In doing so, you must accept Vimeoâ&#128;&#153;s Terms of Service.
 3. **Privacy.** Vimeo may collect and use information concerning your use of the Vimeo iOS Apps as set forth in its Privacy Policy ([www.vimeo.com/privacy](/privacy)).
 4. **Limited License.** Vimeo grants you a limited, non-exclusive, non-transferrable, revocable license to use the Vimeo iOS Apps for your personal, non-commercial purposes. You may only use the Vimeo iOS Apps on an iPhone, iPod Touch, iPad, or other Apple device that you own or control and as permitted by the Apple App Store Terms of Service.
 5. **Music.** The Cameo app allows you to use certain musical tracks that Vimeo has licensed from third party musicians. Specifically, you may use the included tracks in a non-commercial video that you create using the Cameo app and may distribute such video via the Cameo app and related website and the Vimeo service. You may not use the included tracks for any other purpose. All musical tracks are property of their respective owners.
@@ -16,4 +16,4 @@ This Vimeo iOS App End User License Addendum ("**Mobile Addendum**") is between 
 8. **Third Party Intellectual Property Claims.** Vimeo shall not be obligated to indemnify or defend you with respect to any third party claim arising out or relating to the Vimeo iOS Apps. To the extent Vimeo is required to provide indemnification by applicable law, Vimeo, not Apple, shall be solely responsible for the investigation, defense, settlement and discharge of any claim that the Vimeo iOS Apps or your use of it infringes any third party intellectual property right.
 9. **Product Claims.** Vimeo does not make any warranties concerning the Vimeo iOS Apps. To the extent you have any claim arising from or relating to your use of the Vimeo iOS Apps, Vimeo, not Apple, is responsible for addressing any such claims, which may include, but are not limited to: (i) any product liability claim; (ii) any claim that the Vimeo iOS Apps fail to conform to any applicable legal or regulatory requirement; and (iii) any claim arising under consumer protection or similar legislation. Nothing in this Mobile Addendum shall be deemed an admission that you may have such claims.
 10. **U.S. Legal Compliance.** You represent and warrant that (i) you are not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a "terrorist supporting" country; and (ii) you are not listed on any U.S. Government list of prohibited or restricted parties.
-11. **Contact Information.** Should you have any questions, complaints, or claims relating to the Vimeo iOS Apps, please contact us at [support@vimeo.com](mailto:support@vimeo.com).
+11. **Contact Information.** Should you have any questions, complaints, or claims relating to the Vimeo app, please contact us at [support@vimeo.com](mailto:support@vimeo.com) or, for the Cameo app, [cameohelp@vimeo.com](mailto:cameohelp@vimeo.com).
